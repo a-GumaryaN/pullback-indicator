@@ -29,4 +29,10 @@ It helps identify points where short-term trends experience a correction (pullba
 ## Input Parameters
 
 - **ColorLowChange** – Color for low pullback signals  
-- **ColorHighChange** – Color for high pullback signals 
+- **ColorHighChange** – Color for high pullback signals
+
+---
+
+## disclaimer
+
+**Use the indicator output as visual guides; do not rely solely on them for trading decisions**
